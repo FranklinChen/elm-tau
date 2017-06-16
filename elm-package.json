@@ -1,0 +1,14 @@
+{
+    "summary": "The mathematical constant.",
+    "source-directories": [
+        "src"
+    ],
+    "repository": "https://github.com/FranklinChen/elm-tau.git",
+    "dependencies": {
+        "elm-lang/core": "5.0.0 <= v < 6.0.0"
+    },
+    "exposed-modules": ["Math.Tau"],
+    "version": "1.0.0",
+    "elm-version": "0.18.0 <= v < 0.19.0",
+    "license": "BSD3"
+}
