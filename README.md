@@ -1,5 +1,7 @@
 # Tau for Elm
 
+[![Join the chat at https://gitter.im/FranklinChen/elm-tau](https://badges.gitter.im/FranklinChen/elm-tau.svg)](https://gitter.im/FranklinChen/elm-tau?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/FranklinChen/elm-tau](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/FranklinChen/elm-tau?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Build Status](https://travis-ci.org/FranklinChen/elm-tau.png)](https://travis-ci.org/FranklinChen/elm-tau)
